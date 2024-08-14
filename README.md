@@ -1,7 +1,8 @@
 # Marble Madness
 2D shooter based rougelike game with the objective of collecting crystals laid throughout the map in order to advance to the next levels. Variety of robots are spawned throughout the map to prevent the player from reaching the exit, with objectives of shooting the player or stealing consumable items (ammo, healing kits) that exist throughout the map. Pits/Holes obstrut player movements, but can be removed with the player pushing a marble over it. Faster completion time of reaching the exit results in more points being earned for each level. 
 
-Source code is put in a private repository due to school policies, but is available upon request.
+**Source code is put in a private repository due to school policies, but is available upon request.**
+
 Demo of project:
 ///
 
