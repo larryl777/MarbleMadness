@@ -3,8 +3,6 @@
 
 **Source code is put in a private repository due to school policies, but is available upon request.**
 
-Demo of project:
-///
 
 # How It's Made:
 I was tasked with completing a skeleton code of the project, where I was responsible for implementing all funtionalities of each class, score tracking, and loading level/map files. I practiced efficient object oriented programming using base and derived classes to avoid defining specific methods for each class, and can group functionalities of the subclasses. Ex:Defined base classes for players, robots, walls, pits, marbles, consumables who shared characteristics, and implemented subclasses for uniqueness. 
