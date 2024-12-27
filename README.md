@@ -7,4 +7,4 @@ I was tasked with completing a skeleton code of the project, where I was respons
 
 Tech used: C++, XQuartz, Xcode
 
-**Source code in this repository is only code that I have implemented individually; not every file of the project is pushed due school policies, but is available upon request.**
+**Source code in this repository is only code that I have implemented individually; not every file of the project is pushed due school policies(UCLA COM SCI 32), but is available upon request.**
